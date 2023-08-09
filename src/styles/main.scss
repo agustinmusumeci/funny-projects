@@ -1,0 +1,15 @@
+// COMPONENTS
+@import "./components/Header/header.scss";
+@import "./components/CardContainer/cardContainer.scss";
+
+// GLOBALS
+@import "./globals/_global.scss";
+
+* {
+
+    font-family: $display-font;
+
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}

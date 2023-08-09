@@ -1,0 +1,11 @@
+@import "../Card/__card.scss";
+
+.card-container {
+    width: 100%;
+    min-height: 25vh;
+
+    display: flex;
+
+    justify-content: center;
+    align-items: center;
+}

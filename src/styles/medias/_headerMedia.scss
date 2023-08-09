@@ -1,0 +1,31 @@
+@media (max-width:360px) {
+    .header {
+        .header-form {
+            .input {
+                    margin-right: 0.2rem;
+                    padding: 0.3rem 0rem 0.3rem 0.75rem;
+            }
+            
+                .input-sumbit {
+                    padding: 0.3rem 1rem 0.3rem 1rem;
+            }
+        }
+    }
+}
+
+@media (max-width: 338px) {
+    .header {
+        .header-form {
+            flex-direction: column;
+            .input {
+                    margin-right: 0.2rem;
+                    padding: 0.3rem 0rem 0.3rem 0.75rem;
+            }
+            
+            .input-sumbit {
+                    margin: 1rem 6rem -1rem 6rem;
+                    padding: 0.3rem 1rem 0.3rem 1rem;
+            }
+        }
+    }
+}
